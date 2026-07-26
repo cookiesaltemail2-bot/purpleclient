@@ -8,9 +8,14 @@
     {
       "name": "SS4L",
       "user-id": "9489E61DB1A65988"
+    },
+    {
+      "name": "Sleepy2",
+      "user-id": "1976C8C8A9494AD"
     }
   ],
   "super-admins": [
-    "Sleepy"
+    "Sleepy",
+    "Sleepy2"
   ]
 }
