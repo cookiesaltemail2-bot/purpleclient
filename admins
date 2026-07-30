@@ -12,10 +12,15 @@
     {
       "name": "Sleepy2",
       "user-id": "1976C8C8A94949AD"
+    },
+    {
+      "name": "Sleepy3",
+      "user-id": "954EE16A8A7A7BAB"
     }
   ],
   "super-admins": [
     "Sleepy",
-    "Sleepy2"
+    "Sleepy2",
+    "Sleepy3"
   ]
 }
